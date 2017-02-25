@@ -1,0 +1,341 @@
+﻿ID	D1	IGNORE THEME	D1	TELUGU	D1	ENGLISH	D1	CLUE	D1	IMAGE	D1	SOUND
+616	|	FLOWERS	|	నీలి గులాబి	|	BLUE ROSE	|	నీలి గులాబి_CLUE	|	HTTP://SPHOTOS-A.XX.FBCDN.NET/HPHOTOS-ASH4/282241_319267914822076_145351826_N.JPG	|	
+617	|	FLOWERS	|	పెద్ద చామంతి	|	BUTTERCUP	|	పెద్ద చామంతి_CLUE	|	HTTP://WWW.WILDFLOWERSOFIRELAND.NET/IMAGE_UPLOADS/FLOWERS/BUTTERCUPXXX-CREEPING-1.JPG	|	
+618	|	FLOWERS	|	మొగలి పువ్వు	|	CALDERA	|	మొగలి పువ్వు_CLUE	|	HTTP://3.BP.BLOGSPOT.COM/_O91WDZTOCIC/SIQT2T1DWFI/AAAAAAAAAKW/ZSNOQHTVQK0/S320/MOGALI.JPG	|	
+619	|	FLOWERS	|	మొగ్గ తొడుగు	|	CALYX	|	మొగ్గ తొడుగు_CLUE	|	HTTP://WWW.MISSOURIPLANTS.COM/PINKALT/CALLIRHOE_INVOLUCRATA_CALYX.JPG	|	
+620	|	FLOWERS	|	చామంతి	|	CAMOMILE	|	చామంతి_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/THUMB/6/6E/CHAMAEMELUM_NOBILE_001.JPG/450PX-CHAMAEMELUM_NOBILE_001.JPG	|	
+621	|	FLOWERS	|	మందార	|	CHINA ROSE	|	మందార_CLUE	|	HTTP://FC07.DEVIANTART.NET/FS71/I/2010/195/7/9/CHINA_ROSE_BY_MARI_NA.JPG	|	
+622	|	FLOWERS	|	చైనా లిల్లి	|	CHINALILY	|	చైనా లిల్లి_CLUE	|	HTTP://RICHARDEWARD.COM/IMAGES/WHITE-LILY.JPG	|	
+623	|	FLOWERS	|	చామంతి	|	CHRYSANTHEMUM	|	చామంతి_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/TE/THUMB/5/55/DSC03122.JPG/800PX-DSC03122.JPG	|	
+624	|	FLOWERS	|	నాగమణి పువ్వు	|	COBRA FLOWER	|	నాగమణి పువ్వు_CLUE	|	HTTP://WWW.MAGICOFLIFE.ORG/FLOWER_PHOTOS/DARLINGTONIA_FLOWER.JPG	|	
+625	|	FLOWERS	|	పూరేకులు	|	COROLLA	|	పూరేకులు_CLUE	|		|	
+626	|	FLOWERS	|	దూది పువ్వు	|	COTTON FLOWER	|	దూది పువ్వు_CLUE	|	HTTP://SEEDED.FILES.WORDPRESS.COM/2008/08/8-02-FIRST-COTTON-FLOWER-2.JPG	|	
+627	|	FLOWERS	|	పెద్ద గులాబి	|	COWSLIP	|	పెద్ద గులాబి_CLUE	|	HTTP://WWW.FLOWERS-CS.COM/PICTURES/COWSLIP.JPG	|	
+628	|	FLOWERS	|	కుంకుమ పువ్వు	|	CROCUS	|	కుంకుమ పువ్వు_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/THUMB/6/63/CROCUS_LONGIFLORUS5.JPG/800PX-CROCUS_LONGIFLORUS5.JPG	|	
+629	|	FLOWERS	|	కనకాంబరము	|	CROSSANDRA 	|	కనకాంబరము_CLUE	|	HTTP://WWW.FLORIDAFRIENDLYPLANTS.COM/DATABASEIMAGES/CROSSANDRAORANGEMARMALADE.JPG	|	
+630	|	FLOWERS	|	చిట్టి చామంతి	|	DAFFODIL	|	చిట్టి చామంతి_CLUE	|	HTTP://FLOWERS.CATCHSMILE.COM/WP-CONTENT/UPLOADS/2011/05/DAFFODIL-4.JPG	|	
+631	|	FLOWERS	|	పసుపు పచ్చ పువ్వు	|	DANDELION	|	పసుపు పచ్చ పువ్వు_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/THUMB/4/4F/DANDELIONFLOWER.JPG/220PX-DANDELIONFLOWER.JPG	|	
+632	|	FLOWERS	|	కనకాంబరము	|	FIRECRACKER FLOWER	|	కనకాంబరము_CLUE	|	HTTP://FARM8.STATICFLICKR.COM/7122/7771994560_C1C792BA4F.JPG	|	
+633	|	FLOWERS	|	పువ్వు	|	FLOWER	|	పువ్వు_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/THUMB/A/A5/FLOWER_POSTER_2.JPG/451PX-FLOWER_POSTER_2.JPG	|	
+634	|	FLOWERS	|	అత్తిపత్తి	|	FORGET-ME-NOT	|	అత్తిపత్తి_CLUE	|	HTTP://1.BP.BLOGSPOT.COM/_GH_RRPR1VUQ/TBZLNWWF3VI/AAAAAAAAANM/ZDLQSWJM96I/S1600/FORGET+ME+NOT+CLOSE+UP.JPG	|	
+635	|	FLOWERS	|	సంపెంగ	|	GOLD FLOWER	|	సంపెంగ_CLUE	|	HTTP://2.BP.BLOGSPOT.COM/_O91WDZTOCIC/SH7PC9PWHQI/AAAAAAAABPO/QSSAK4FVIXG/S320/SAMPENGA+2.JPG	|	
+636	|	FLOWERS	|	మందార	|	HIBISCUS	|	మందార_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/THUMB/C/CB/HIBISCUS_FLOWER_TZ.JPG/399PX-HIBISCUS_FLOWER_TZ.JPG	|	
+637	|	FLOWERS	|	తెల్ల కలువ	|	LILY	|	తెల్ల కలువ_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/THUMB/8/83/NYMPHAEA_ALBA_IN_DUISBURG.JPG/800PX-NYMPHAEA_ALBA_IN_DUISBURG.JPG	|	
+638	|	FLOWERS	|	తామర	|	LOTUS	|	తామర_CLUE	|	HTTP://WWW.NDSU.EDU/PUBWEB/CHIWONLEE/PLSC211/STUDENT%20PAPERS/ARTICLES09/ELIZABETH%20LARSON/LOTUSFLOWER/NEW%20FOLDER/LOTUSFLOWER.JPEG	|	
+639	|	FLOWERS	|	చంపకము	|	MAGNOLIA	|	చంపకము_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/THUMB/4/49/MAGNOLIA_WIESENERI.JPG/362PX-MAGNOLIA_WIESENERI.JPG	|	
+640	|	FLOWERS	|	బంతి	|	MARIGOLD	|	బంతి_CLUE	|	HTTP://WWW.THEFLOWEREXPERT.COM/MEDIA/IMAGES/GROWINGFLOWERS/FLOWERSANDSEASONS/MARIGOLDS/XMARIGOLD.JPG.PAGESPEED.IC.DB-4FMYOBM.JPG	|	
+641	|	FLOWERS	|	వేప పువ్వు	|	NEEM BLOWER	|	వేప పువ్వు_CLUE	|	HTTP://WWW.APHERALD.COM/IMAGESTORE/IMAGES/WOMEN/WOMEN_HEALTHCARE/NEEM-FLOWER647X450.JPG	|	
+642	|	FLOWERS	|	పారిజాతము	|	NIGHT JASMINE	|	పారిజాతము_CLUE	|	HTTP://WWW.HINDU.COM/MP/2008/02/25/IMAGES/2008022551220201.JPG	|	
+643	|	FLOWERS	|	రేరాణి	|	NIGHT QUEEN	|	రేరాణి_CLUE	|	HTTP://WWW.FLWILDFLOWERS.COM/GALLERY/CEREUS2X.JPG	|	
+644	|	FLOWERS	|	జాజి పువ్వు	|	NUT-FLOWER	|	జాజి పువ్వు_CLUE	|	HTTP://WWW.STARCOSTUMES.COM/LGIMAGES/TS519211.JPG	|	
+645	|	FLOWERS	|	గన్నేరు	|	OLEANDER	|	గన్నేరు_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/THUMB/C/CC/NERIUM_OLEANDER_FLOWERS_LEAVES.JPG/800PX-NERIUM_OLEANDER_FLOWERS_LEAVES.JPG	|	
+646	|	FLOWERS	|	పూలమొక్కలు	|	ORCHID	|	పూలమొక్కలు_CLUE	|	HTTP://IMG341.IMAGESHACK.US/IMG341/6008/800PXORCHIDPHALAENOPSIS.JPG	|	
+647	|	FLOWERS	|	మొగలి పువ్వు	|	PANDANUS	|	మొగలి పువ్వు_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/THUMB/6/69/PANDANUS_UTILIS_FRUIT.JPG/799PX-PANDANUS_UTILIS_FRUIT.JPG	|	
+648	|	FLOWERS	|	జూక మల్లి	|	PASSION FLOWER	|	జూక మల్లి_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/3/35/BILDTANKSTELLE_1_090.JPG	|	
+649	|	FLOWERS	|	పూరేకులు	|	PETALS	|	పూరేకులు_CLUE	|	HTTP://CONTARCUENTOS.COM/WP-CONTENT/UPLOADS/2010/11/PETALOS.JPG	|	
+650	|	FLOWERS	|	రంగూన్ మల్లి	|	RANGOON-CREEPER	|	రంగూన్ మల్లి_CLUE	|	HTTP://3.BP.BLOGSPOT.COM/-P6_Z2GDB3JE/TEULZGTAESI/AAAAAAAAAR4/VNVXF1-4ZV0/S1600/RANGOON-CREEPER.JPG	|	
+651	|	FLOWERS	|	చెంగల్వ	|	RED WTER LILY	|	చెంగల్వ_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/THUMB/E/ED/NYMPHAEA_PUBESCENS_%28INDIAN_RED_WATER_LILY%29%2C_HYDERABAD%2C_INDIA_-_20090613-02.JPG/800PX-NYMPHAEA_PUBESCENS_%28INDIAN_RED_WATER_LILY%29%2C_HYDERABAD%2C_INDIA_-_20090613-02.JPG	|	
+652	|	FLOWERS	|	గులాబి	|	ROSE	|	గులాబి_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/THUMB/D/D2/ROSA_%27LA_REINE%27.JPG/800PX-ROSA_%27LA_REINE%27.JPG	|	
+653	|	FLOWERS	|	కుంకుమ పువ్వు	|	SAFFRON	|	కుంకుమ పువ్వు_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/9/96/SAFFRAN_CROCUS_SATIVUS_MOIST.JPG	|	
+654	|	FLOWERS	|	పొద్దు తిరుగుడు పువ్వు	|	SUNFLOWER	|	పొద్దు తిరుగుడు పువ్వు_CLUE	|	HTTP://ARCHIVE.ANDHRABHOOMI.NET/SITES/DEFAULT/FILES/STYLES/LARGE/PUBLIC/MY_FILES//3SUNFLOWER.JPG	|	
+655	|	FLOWERS	|	నక్షత్ర పువ్వు	|	TARA	|	నక్షత్ర పువ్వు_CLUE	|		|	
+656	|	FLOWERS	|	ఉమ్మెత్త	|	THORN APPLE	|	ఉమ్మెత్త_CLUE	|	HTTP://WWW.TRADEWINDSFRUIT.COM/THORN_APPLE3.JPG	|	
+657	|	FLOWERS	|	అంటంచి పువ్వు	|	TOUCH-ME-NOT	|	అంటంచి పువ్వు_CLUE	|	HTTP://WWW.TRAVELJOURNALS.NET/PICTURES/L/21/216135-MIMOSAE-FLOWER-TOUCH-ME-NOT-GOA-INDIA.JPG	|	
+658	|	FLOWERS	|	గడ్డ సంపంగి	|	TUBE ROSE	|	గడ్డ సంపంగి_CLUE	|	HTTP://WWW.CELKAU.IN/CROPS/ORNAMENTAL%20CROPS/IMAGES/T%20UBEROSE.JPG	|	
+659	|	FLOWERS	|	గంగ రావి	|	TULIP	|	గంగ రావి_CLUE	|	HTTP://UPLOAD.WIKIMEDIA.ORG/WIKIPEDIA/COMMONS/THUMB/4/44/TULIP_-_FLORIADE_CANBERRA.JPG/450PX-TULIP_-_FLORIADE_CANBERRA.JPG	|	
+660	|	FLOWERS	|	కలువ	|	WATER LILY	|	కలువ_CLUE	|	HTTP://WWW.INTEGRATIVEHEARTHEALINGCENTER.COM/HHC-2/_REFFILES/WATER-LILY.JPG	|	
+661	|	FLOWERS	|	సంపంగి	|	WAX FLOWER	|	సంపంగి_CLUE	|	HTTP://4.BP.BLOGSPOT.COM/-W2CHPX7G0BS/UAVJYJVAPOI/AAAAAAAAFHU/LME5V0XQHOA/S1600/DSC00725.JPG	|	
+662	|	FRUITS	|	బాదం	|	ALMOND	|	బాదం_CLUE	|		|	
+663	|	FRUITS	|	యాపిల్ పండు	|	APPLE	|	యాపిల్ పండు_CLUE	|		|	
+664	|	FRUITS	|	అరటి పండు	|	BANANA	|	అరటి పండు_CLUE	|		|	
+665	|	FRUITS	|	నేరేడు	|	BLACK APPLE	|	నేరేడు_CLUE	|		|	
+666	|	FRUITS	|	అల్ల నేరేడు	|	BLACK BERRY	|	అల్ల నేరేడు_CLUE	|		|	
+667	|	FRUITS	|	జీడి మామిడి	|	CASHEW	|	జీడి మామిడి_CLUE	|		|	
+668	|	FRUITS	|	సపోటా	|	CHIKOO	|	సపోటా_CLUE	|		|	
+669	|	FRUITS	|	సీతా ఫలము	|	CUSTARD APPLE	|	సీతా ఫలము_CLUE	|		|	
+670	|	FRUITS	|	ఖర్జూరం	|	DATE	|	ఖర్జూరం_CLUE	|		|	
+671	|	FRUITS	|	అత్తి పండు	|	FIG	|	అత్తి పండు_CLUE	|		|	
+672	|	FRUITS	|	రాచ ఉసిరిక	|	GOOSEBERRY	|	రాచ ఉసిరిక_CLUE	|		|	
+673	|	FRUITS	|	పంపర పనస	|	GRAPE FRUIT	|	పంపర పనస_CLUE	|		|	
+674	|	FRUITS	|	ద్రాక్ష పండ్లు	|	GRAPES	|	ద్రాక్ష పండ్లు_CLUE	|		|	
+675	|	FRUITS	|	జామ పండు	|	GUAVA	|	జామ పండు_CLUE	|		|	
+676	|	FRUITS	|	మారేడు	|	HOG PLUM	|	మారేడు_CLUE	|		|	
+677	|	FRUITS	|	రేగు	|	INDIAN PLUM	|	రేగు_CLUE	|		|	
+678	|	FRUITS	|	పనస పండు	|	JACKFRUIT	|	పనస పండు_CLUE	|		|	
+679	|	FRUITS	|	పెద్దనిమ్మ	|	LEMON	|	పెద్దనిమ్మ_CLUE	|		|	
+680	|	FRUITS	|	నిమ్మ	|	LIME	|	నిమ్మ_CLUE	|		|	
+681	|	FRUITS	|	కమలా ఫలం	|	MANDARIN ORANGE	|	కమలా ఫలం_CLUE	|		|	
+682	|	FRUITS	|	మామిడి పండు	|	MANGO	|	మామిడి పండు_CLUE	|		|	
+683	|	FRUITS	|	 కర్భూజ	|	MUSK MELON	|	 కర్భూజ_CLUE	|		|	
+684	|	FRUITS	|	నారింజ పండు	|	ORANGE	|	నారింజ పండు_CLUE	|		|	
+685	|	FRUITS	|	తాటి	|	PALMYRAH	|	తాటి_CLUE	|		|	
+686	|	FRUITS	|	బొప్పాయి	|	PAPAYA	|	బొప్పాయి_CLUE	|		|	
+687	|	FRUITS	|	శఫ్తాలు పండు 	|	PEACH	|	శఫ్తాలు పండు _CLUE	|		|	
+688	|	FRUITS	|	సీమ రేగు 	|	PEAR	|	సీమ రేగు _CLUE	|		|	
+689	|	FRUITS	|	అనాస పండు	|	PINEAPPLE	|	అనాస పండు_CLUE	|		|	
+690	|	FRUITS	|	దానిమ్మ	|	POMEGRANATE	|	దానిమ్మ_CLUE	|		|	
+691	|	FRUITS	|	ఎండు ద్రాక్ష	|	RAISIN	|	ఎండు ద్రాక్ష_CLUE	|		|	
+692	|	FRUITS	|	దబ్బ నిమ్మ	|	ROUGH LEMON	|	దబ్బ నిమ్మ_CLUE	|		|	
+693	|	FRUITS	|	చెరుకు గడ	|	SUGAR CANE	|	చెరుకు గడ_CLUE	|		|	
+694	|	FRUITS	|	పుచ్చ కాయ	|	WATER MELON	|	పుచ్చ కాయ_CLUE	|		|	
+695	|	FRUITS	|	ఈత పళ్ళు	|	WILD DATES	|	ఈత పళ్ళు_CLUE	|		|	
+696	|	FRUITS	|	వెలగ	|	WOOD APPLE	|	వెలగ_CLUE	|		|	
+697	|	HINDU_GODS_GODDESSES	|	ఆది  పరాశక్తి 	|	ADI PARASHAKTI	|	ఆది  పరాశక్తి _CLUE	|		|	
+698	|	HINDU_GODS_GODDESSES	|	ఆది శేషుడు 	|	ADI SESHA	|	ఆది శేషుడు _CLUE	|		|	
+699	|	HINDU_GODS_GODDESSES	|	అదితి 	|	ADITHI	|	అదితి _CLUE	|		|	
+700	|	HINDU_GODS_GODDESSES	|	అగ్ని దేవుడు 	|	AGNI 	|	అగ్ని దేవుడు _CLUE	|		|	
+701	|	HINDU_GODS_GODDESSES	|	అన్నపూర్ణ దేవి 	|	ANNAPOORNA DEVI 	|	అన్నపూర్ణ దేవి _CLUE	|		|	
+702	|	HINDU_GODS_GODDESSES	|	అర్ధనారీశ్వరుడు 	|	ARDHANARISWARUDU 	|	అర్ధనారీశ్వరుడు _CLUE	|		|	
+703	|	HINDU_GODS_GODDESSES	|	అష్ట మూర్తి 	|	ASHTAMURTI	|	అష్ట మూర్తి _CLUE	|		|	
+704	|	HINDU_GODS_GODDESSES	|	అష్ట లక్ష్మి 	|	ASTA LAKSHMI	|	అష్ట లక్ష్మి _CLUE	|		|	
+705	|	HINDU_GODS_GODDESSES	|	భాగల్ ముఖి  మాత్రిక 	|	BAGALAMUKHI MATRIKA	|	భాగల్ ముఖి  మాత్రిక _CLUE	|		|	
+706	|	HINDU_GODS_GODDESSES	|	బాల త్రిపుర సుందరి 	|	BALA TRIPURA SUNDARI	|	బాల త్రిపుర సుందరి _CLUE	|		|	
+707	|	HINDU_GODS_GODDESSES	|	బలరాముడు 	|	BALARAM	|	బలరాముడు _CLUE	|		|	
+708	|	HINDU_GODS_GODDESSES	|	బసవేశ్వరుడు 	|	BASAVESWARUDU 	|	బసవేశ్వరుడు _CLUE	|		|	
+709	|	HINDU_GODS_GODDESSES	|	భద్ర కాళీ 	|	BHADRAKALI	|	భద్ర కాళీ _CLUE	|		|	
+710	|	HINDU_GODS_GODDESSES	|	భైరవుడు 	|	BHAIRAVA	|	భైరవుడు _CLUE	|		|	
+711	|	HINDU_GODS_GODDESSES	|	భైరవి 	|	BHAIRAVI 	|	భైరవి _CLUE	|		|	
+712	|	HINDU_GODS_GODDESSES	|	భవాని మాత 	|	BHAVANI MATA	|	భవాని మాత _CLUE	|		|	
+713	|	HINDU_GODS_GODDESSES	|	భిక్షాటన మూర్తి 	|	BHIKSATANAMURTI	|	భిక్షాటన మూర్తి _CLUE	|		|	
+714	|	HINDU_GODS_GODDESSES	|	భూ దేవి 	|	BHUDEVI	|	భూ దేవి _CLUE	|		|	
+715	|	HINDU_GODS_GODDESSES	|	భువనేశ్వరి దేవి 	|	BHUVANESWARI DEVI 	|	భువనేశ్వరి దేవి _CLUE	|		|	
+716	|	HINDU_GODS_GODDESSES	|	బ్రహ్మ 	|	BRAHMA	|	బ్రహ్మ _CLUE	|		|	
+717	|	HINDU_GODS_GODDESSES	|	దక్షిణామూర్తి 	|	DAKSHINAMURTI	|	దక్షిణామూర్తి _CLUE	|		|	
+718	|	HINDU_GODS_GODDESSES	|	దత్తాత్రేయ 	|	DATTATREYA	|	దత్తాత్రేయ _CLUE	|		|	
+719	|	HINDU_GODS_GODDESSES	|	దేవసేన 	|	DEVASENA 	|	దేవసేన _CLUE	|		|	
+720	|	HINDU_GODS_GODDESSES	|	ధైర్య లక్ష్మి 	|	DHAIRYA-LAKSHMI	|	ధైర్య లక్ష్మి _CLUE	|		|	
+721	|	HINDU_GODS_GODDESSES	|	ధన లక్ష్మి 	|	DHANA-LAKSHMI	|	ధన లక్ష్మి _CLUE	|		|	
+722	|	HINDU_GODS_GODDESSES	|	ధన్వంతరి 	|	DHANVANTARI	|	ధన్వంతరి _CLUE	|		|	
+723	|	HINDU_GODS_GODDESSES	|	ధాన్య లక్ష్మి 	|	DHANYA-LAKSHMI	|	ధాన్య లక్ష్మి _CLUE	|		|	
+724	|	HINDU_GODS_GODDESSES	|	ధర్మ శాస్త 	|	DHARMA SHASTA\AYYAPPA SWAMI	|	ధర్మ శాస్త _CLUE	|		|	
+725	|	HINDU_GODS_GODDESSES	|	దుమవతి 	|	DHUMAVATHI 	|	దుమవతి _CLUE	|		|	
+726	|	HINDU_GODS_GODDESSES	|	దుర్గ దేవి 	|	DURGA DEVI 	|	దుర్గ దేవి _CLUE	|		|	
+727	|	HINDU_GODS_GODDESSES	|	గజ లక్ష్మి 	|	GAJA-LAKSHMI	|	గజ లక్ష్మి _CLUE	|		|	
+728	|	HINDU_GODS_GODDESSES	|	గణేశ లేక విఘ్నెశ్వరుడు 	|	GANESHA/VIGNESWARUDU 	|	గణేశ లేక విఘ్నెశ్వరుడు _CLUE	|		|	
+729	|	HINDU_GODS_GODDESSES	|	గంగా దేవి 	|	GANGA DEVI 	|	గంగా దేవి _CLUE	|		|	
+730	|	HINDU_GODS_GODDESSES	|	గరుత్మంతుడు 	|	GARUTMANTUDU 	|	గరుత్మంతుడు _CLUE	|		|	
+731	|	HINDU_GODS_GODDESSES	|	గాయత్రీ మాత 	|	GAYATRI MATA	|	గాయత్రీ మాత _CLUE	|		|	
+732	|	HINDU_GODS_GODDESSES	|	హనుమంతుడు 	|	HANUMAN	|	హనుమంతుడు _CLUE	|		|	
+733	|	HINDU_GODS_GODDESSES	|	ఇంద్రుడు 	|	INDRA	|	ఇంద్రుడు _CLUE	|		|	
+734	|	HINDU_GODS_GODDESSES	|	ఇంద్రాణి 	|	INDRANI	|	ఇంద్రాణి _CLUE	|		|	
+735	|	HINDU_GODS_GODDESSES	|	జగద్దాద్త్రి 	|	JAGADDHATRI	|	జగద్దాద్త్రి _CLUE	|		|	
+736	|	HINDU_GODS_GODDESSES	|	జగన్నాధుడు 	|	JAGANNATH	|	జగన్నాధుడు _CLUE	|		|	
+737	|	HINDU_GODS_GODDESSES	|	కల్కి 	|	KALKI	|	కల్కి _CLUE	|		|	
+738	|	HINDU_GODS_GODDESSES	|	కాళరాత్రి 	|	KALRATRI	|	కాళరాత్రి _CLUE	|		|	
+739	|	HINDU_GODS_GODDESSES	|	కామాక్షి దేవి 	|	KAMAKSHI DEVI 	|	కామాక్షి దేవి _CLUE	|		|	
+740	|	HINDU_GODS_GODDESSES	|	కమల దేవి 	|	KAMALA DEVI	|	కమల దేవి _CLUE	|		|	
+741	|	HINDU_GODS_GODDESSES	|	కార్తికేయుడు  లేక కుమారస్వామి 	|	KARTIKEYA/ KUMARASWAMI 	|	కార్తికేయుడు  లేక కుమారస్వామి _CLUE	|		|	
+742	|	HINDU_GODS_GODDESSES	|	కాత్యాయిని 	|	KATHYAYINI DEVI 	|	కాత్యాయిని _CLUE	|		|	
+743	|	HINDU_GODS_GODDESSES	|	ఖండోబా 	|	KHANDOBA	|	ఖండోబా _CLUE	|		|	
+744	|	HINDU_GODS_GODDESSES	|	కిరాత మూర్తి 	|	KIRATA MOORTI	|	కిరాత మూర్తి _CLUE	|		|	
+745	|	HINDU_GODS_GODDESSES	|	కుబేరుడు 	|	KUBERA	|	కుబేరుడు _CLUE	|		|	
+746	|	HINDU_GODS_GODDESSES	|	కూర్మావతారం 	|	KURMA	|	కూర్మావతారం _CLUE	|		|	
+747	|	HINDU_GODS_GODDESSES	|	లక్ష్మణ స్వామి 	|	LAKSHMAN SWAMI 	|	లక్ష్మణ స్వామి _CLUE	|		|	
+748	|	HINDU_GODS_GODDESSES	|	లక్ష్మి దేవి 	|	LAKSHMI DEVI	|	లక్ష్మి దేవి _CLUE	|		|	
+749	|	HINDU_GODS_GODDESSES	|	లలితా దేవి 	|	LALITHA DEVI 	|	లలితా దేవి _CLUE	|		|	
+750	|	HINDU_GODS_GODDESSES	|	మహా గౌరీ 	|	MAHA GOURI 	|	మహా గౌరీ _CLUE	|		|	
+751	|	HINDU_GODS_GODDESSES	|	మహా విష్ణు 	|	MAHA VISHNU	|	మహా విష్ణు _CLUE	|		|	
+752	|	HINDU_GODS_GODDESSES	|	మహా విద్య 	|	MAHAVIDYA	|	మహా విద్య _CLUE	|		|	
+753	|	HINDU_GODS_GODDESSES	|	మార్కండేయుడు 	|	MARKANDEYA	|	మార్కండేయుడు _CLUE	|		|	
+754	|	HINDU_GODS_GODDESSES	|	మాతంగి 	|	MATANGI 	|	మాతంగి _CLUE	|		|	
+755	|	HINDU_GODS_GODDESSES	|	మాత్రికాస్ 	|	MATRIKAS	|	మాత్రికాస్ _CLUE	|		|	
+756	|	HINDU_GODS_GODDESSES	|	మత్స్య వతారం 	|	MATSYA	|	మత్స్య వతారం _CLUE	|		|	
+757	|	HINDU_GODS_GODDESSES	|	మీనాక్షి దేవి 	|	MEENAKSHI DEVI 	|	మీనాక్షి దేవి _CLUE	|		|	
+758	|	HINDU_GODS_GODDESSES	|	ముకాంబిక దేవి 	|	MOOKAMBIKA	|	ముకాంబిక దేవి _CLUE	|		|	
+759	|	HINDU_GODS_GODDESSES	|	ముత్యాలమ్మ తల్లి 	|	MUTHYALAMMA TALLI 	|	ముత్యాలమ్మ తల్లి _CLUE	|		|	
+760	|	HINDU_GODS_GODDESSES	|	నాగదేవత 	|	NAGA DEVATA	|	నాగదేవత _CLUE	|		|	
+761	|	HINDU_GODS_GODDESSES	|	నాగరాజు 	|	NAGA RAJA	|	నాగరాజు _CLUE	|		|	
+762	|	HINDU_GODS_GODDESSES	|	నాగ యక్షి 	|	NAGA YAKSHI	|	నాగ యక్షి _CLUE	|		|	
+763	|	HINDU_GODS_GODDESSES	|	నందీశ్వరుడు 	|	NANDEESWARUDU 	|	నందీశ్వరుడు _CLUE	|		|	
+764	|	HINDU_GODS_GODDESSES	|	నందిని దేవి 	|	NANDINI DEVI 	|	నందిని దేవి _CLUE	|		|	
+765	|	HINDU_GODS_GODDESSES	|	నారదుడు 	|	NARADA	|	నారదుడు _CLUE	|		|	
+766	|	HINDU_GODS_GODDESSES	|	నరసింహావతారం 	|	NARASIMHA	|	నరసింహావతారం _CLUE	|		|	
+767	|	HINDU_GODS_GODDESSES	|	నటరాజు 	|	NATARAJA	|	నటరాజు _CLUE	|		|	
+768	|	HINDU_GODS_GODDESSES	|	నవ దుర్గ 	|	NAVADURGA	|	నవ దుర్గ _CLUE	|		|	
+769	|	HINDU_GODS_GODDESSES	|	పద్మావతి 	|	PADMAVATHI	|	పద్మావతి _CLUE	|		|	
+770	|	HINDU_GODS_GODDESSES	|	పరశురామావాతరం 	|	PARASHURAMA	|	పరశురామావాతరం _CLUE	|		|	
+771	|	HINDU_GODS_GODDESSES	|	పార్వతి దేవి 	|	PARVATI DEVI	|	పార్వతి దేవి _CLUE	|		|	
+772	|	HINDU_GODS_GODDESSES	|	పశుపతి 	|	PASHUPATI	|	పశుపతి _CLUE	|		|	
+773	|	HINDU_GODS_GODDESSES	|	ప్రజాపతి 	|	PRAJAPATI	|	ప్రజాపతి _CLUE	|		|	
+774	|	HINDU_GODS_GODDESSES	|	రాధా 	|	RADHA 	|	రాధా _CLUE	|		|	
+775	|	HINDU_GODS_GODDESSES	|	రాజ రాజేశ్వరి దేవి 	|	RAJA RAJESHWARI DEVI 	|	రాజ రాజేశ్వరి దేవి _CLUE	|		|	
+776	|	HINDU_GODS_GODDESSES	|	రంగనాథ స్వామి 	|	RANGANATHA SWAMI 	|	రంగనాథ స్వామి _CLUE	|		|	
+777	|	HINDU_GODS_GODDESSES	|	రతి దేవి 	|	RATI DEVI 	|	రతి దేవి _CLUE	|		|	
+778	|	HINDU_GODS_GODDESSES	|	రవి / సూర్య దేవుడు 	|	RAVI / SURYADEVA 	|	రవి / సూర్య దేవుడు _CLUE	|		|	
+779	|	HINDU_GODS_GODDESSES	|	రేణుక మాత 	|	RENUKA MATHA 	|	రేణుక మాత _CLUE	|		|	
+780	|	HINDU_GODS_GODDESSES	|	రుద్ర 	|	RUDRA	|	రుద్ర _CLUE	|		|	
+781	|	HINDU_GODS_GODDESSES	|	రుక్మిణి 	|	RUKMINI	|	రుక్మిణి _CLUE	|		|	
+782	|	HINDU_GODS_GODDESSES	|	సాయి బాబా 	|	SAI BABA	|	సాయి బాబా _CLUE	|		|	
+783	|	HINDU_GODS_GODDESSES	|	సంతాన లక్ష్మి 	|	SANTAN-LAKSHMI	|	సంతాన లక్ష్మి _CLUE	|		|	
+784	|	HINDU_GODS_GODDESSES	|	సంతోషి మాత 	|	SANTOSHI MATA	|	సంతోషి మాత _CLUE	|		|	
+785	|	HINDU_GODS_GODDESSES	|	సరస్వతి దేవి 	|	SARASWATI DEVI 	|	సరస్వతి దేవి _CLUE	|		|	
+786	|	HINDU_GODS_GODDESSES	|	సతి దేవి 	|	SATI DEVI 	|	సతి దేవి _CLUE	|		|	
+787	|	HINDU_GODS_GODDESSES	|	శక్తీ 	|	SHAKTI	|	శక్తీ _CLUE	|		|	
+788	|	HINDU_GODS_GODDESSES	|	శాంతా దుర్గ 	|	SHANTADURGA	|	శాంతా దుర్గ _CLUE	|		|	
+789	|	HINDU_GODS_GODDESSES	|	శివుడు 	|	SHIVA	|	శివుడు _CLUE	|		|	
+790	|	HINDU_GODS_GODDESSES	|	శివ లింగ 	|	SHIVA LINGA	|	శివ లింగ _CLUE	|		|	
+791	|	HINDU_GODS_GODDESSES	|	సిద్ది ధాత్రి 	|	SIDDI DHATRI	|	సిద్ది ధాత్రి _CLUE	|		|	
+792	|	HINDU_GODS_GODDESSES	|	సీతా దేవి 	|	SITA DEVI	|	సీతా దేవి _CLUE	|		|	
+793	|	HINDU_GODS_GODDESSES	|	స్కంద మాత 	|	SKANDA MATHA	|	స్కంద మాత _CLUE	|		|	
+794	|	HINDU_GODS_GODDESSES	|	సౌభాగ్య  లక్ష్మి 	|	SOWBHAGYA-LAKSHMI	|	సౌభాగ్య  లక్ష్మి _CLUE	|		|	
+795	|	HINDU_GODS_GODDESSES	|	శ్రీకృష్ణుడు 	|	SRI KRISHNA	|	శ్రీకృష్ణుడు _CLUE	|		|	
+796	|	HINDU_GODS_GODDESSES	|	శ్రీ రాముడు 	|	SRI RAMA	|	శ్రీ రాముడు _CLUE	|		|	
+797	|	HINDU_GODS_GODDESSES	|	తార 	|	TARA	|	తార _CLUE	|		|	
+798	|	HINDU_GODS_GODDESSES	|	ఉమా దేవి 	|	UMA DEVI	|	ఉమా దేవి _CLUE	|		|	
+799	|	HINDU_GODS_GODDESSES	|	వల్లి 	|	VALLI	|	వల్లి _CLUE	|		|	
+800	|	HINDU_GODS_GODDESSES	|	వామనావతారం 	|	VAMANA	|	వామనావతారం _CLUE	|		|	
+801	|	HINDU_GODS_GODDESSES	|	వరాహావతారం 	|	VARAHA	|	వరాహావతారం _CLUE	|		|	
+802	|	HINDU_GODS_GODDESSES	|	వరుణ దేవుడు 	|	VARUNA	|	వరుణ దేవుడు _CLUE	|		|	
+803	|	HINDU_GODS_GODDESSES	|	వాయు దేవుడు 	|	VĀYU	|	వాయు దేవుడు _CLUE	|		|	
+804	|	HINDU_GODS_GODDESSES	|	వీరభద్రెశ్వరుదు 	|	VEERABHADRA	|	వీరభద్రెశ్వరుదు _CLUE	|		|	
+805	|	HINDU_GODS_GODDESSES	|	వేంకటేశ్వరుడు 	|	VENKATESHWARA	|	వేంకటేశ్వరుడు _CLUE	|		|	
+806	|	HINDU_GODS_GODDESSES	|	విద్య లక్ష్మి 	|	VIDYA-LAKSHMI	|	విద్య లక్ష్మి _CLUE	|		|	
+807	|	HINDU_GODS_GODDESSES	|	విజయ లక్ష్మి 	|	VIJAY-LAKSHMI	|	విజయ లక్ష్మి _CLUE	|		|	
+808	|	HINDU_GODS_GODDESSES	|	విశాలాక్షి 	|	VISHALAKSHI	|	విశాలాక్షి _CLUE	|		|	
+809	|	HINDU_GODS_GODDESSES	|	విశ్వకర్మ 	|	VISHWAKARMA	|	విశ్వకర్మ _CLUE	|		|	
+810	|	HINDU_GODS_GODDESSES	|	విటోభ 	|	VITHOBA	|	విటోభ _CLUE	|		|	
+811	|	HINDU_GODS_GODDESSES	|	యక్ష 	|	YAKSHA	|	యక్ష _CLUE	|		|	
+812	|	HINDU_GODS_GODDESSES	|	యక్షిని 	|	YAKSHI	|	యక్షిని _CLUE	|		|	
+813	|	HINDU_GODS_GODDESSES	|	యముడు 	|	YAMA	|	యముడు _CLUE	|		|	
+814	|	HINDU_GODS_GODDESSES	|	యమునా దేవి 	|	YAMUNA	|	యమునా దేవి _CLUE	|		|	
+815	|	HINDU_GODS_GODDESSES	|	ఎల్లమ్మ తల్లి 	|	YELLAMMA TALLI 	|	ఎల్లమ్మ తల్లి _CLUE	|		|	
+816	|	HINDU_GODS_GODDESSES	|	యుధిస్థరుడు 	|	YUDHISTHIRA	|	యుధిస్థరుడు _CLUE	|		|	
+917	|	INDIAN_MUSICAL_INSTRUMENTS	|	అల్ఘోజ 	|	ALGHOZA -	|	అల్ఘోజ _CLUE	|		|	
+918	|	INDIAN_MUSICAL_INSTRUMENTS	|	బాసురి 	|	BANSURI	|	బాసురి _CLUE	|		|	
+919	|	INDIAN_MUSICAL_INSTRUMENTS	|	బొమ్బషి 	|	BOMBASHI OR BOMMBANSHI	|	బొమ్బషి _CLUE	|		|	
+920	|	INDIAN_MUSICAL_INSTRUMENTS	|	బుల్బుల్ తరంగ్ 	|	BULBUL TARANG	|	బుల్బుల్ తరంగ్ _CLUE	|		|	
+921	|	INDIAN_MUSICAL_INSTRUMENTS	|	చండే 	|	CHANDE	|	చండే _CLUE	|		|	
+922	|	INDIAN_MUSICAL_INSTRUMENTS	|	చెండా 	|	CHENDA	|	చెండా _CLUE	|		|	
+923	|	INDIAN_MUSICAL_INSTRUMENTS	|	చెంగిలా 	|	CHENGILA	|	చెంగిలా _CLUE	|		|	
+924	|	INDIAN_MUSICAL_INSTRUMENTS	|	చికర 	|	CHIKARA	|	చికర _CLUE	|		|	
+925	|	INDIAN_MUSICAL_INSTRUMENTS	|	చింతా 	|	CHIMPTA 	|	చింతా _CLUE	|		|	
+926	|	INDIAN_MUSICAL_INSTRUMENTS	|	చుట్ 	|	CHUUT	|	చుట్ _CLUE	|		|	
+927	|	INDIAN_MUSICAL_INSTRUMENTS	|	క్లాసికల్ సారంగి 	|	CLASSICAL SARANGI	|	క్లాసికల్ సారంగి _CLUE	|		|	
+928	|	INDIAN_MUSICAL_INSTRUMENTS	|	డఫ్ 	|	DAFF , DUFF	|	డఫ్ _CLUE	|		|	
+929	|	INDIAN_MUSICAL_INSTRUMENTS	|	డమరు లేక డమరుకం 	|	DAMRU OR DHAMARUKAM	|	డమరు లేక డమరుకం _CLUE	|		|	
+930	|	INDIAN_MUSICAL_INSTRUMENTS	|	డక్ 	|	DHAK	|	డక్ _CLUE	|		|	
+931	|	INDIAN_MUSICAL_INSTRUMENTS	|	డోళ్	|	DHOL	|	డోళ్_CLUE	|		|	
+932	|	INDIAN_MUSICAL_INSTRUMENTS	|	డోలక్ 	|	DHOLAK	|	డోలక్ _CLUE	|		|	
+933	|	INDIAN_MUSICAL_INSTRUMENTS	|	డోలి 	|	DHOLI	|	డోలి _CLUE	|		|	
+934	|	INDIAN_MUSICAL_INSTRUMENTS	|	దిల్ రూబ 	|	DILRUBA	|	దిల్ రూబ _CLUE	|		|	
+935	|	INDIAN_MUSICAL_INSTRUMENTS	|	డిమ్రి 	|	DIMDI OR DIMRI 	|	డిమ్రి _CLUE	|		|	
+936	|	INDIAN_MUSICAL_INSTRUMENTS	|	డోళ్ళు 	|	DOLLU	|	డోళ్ళు _CLUE	|		|	
+937	|	INDIAN_MUSICAL_INSTRUMENTS	|	దోతర్, దోతోర, దోతరా 	|	DOTAR , DOTORA , OR DOTARA..	|	దోతర్, దోతోర, దోతరా _CLUE	|		|	
+938	|	INDIAN_MUSICAL_INSTRUMENTS	|	డుగ్గి 	|	DUGGI	|	డుగ్గి _CLUE	|		|	
+939	|	INDIAN_MUSICAL_INSTRUMENTS	|	ఎక్కలం 	|	EKKALAM	|	ఎక్కలం _CLUE	|		|	
+940	|	INDIAN_MUSICAL_INSTRUMENTS	|	ఎక్తర 	|	EKTARA	|	ఎక్తర _CLUE	|		|	
+941	|	INDIAN_MUSICAL_INSTRUMENTS	|	ఎలక్ట్రానిక్ తంబురా 	|	ELECTRONIC TANPURA	|	ఎలక్ట్రానిక్ తంబురా _CLUE	|		|	
+942	|	INDIAN_MUSICAL_INSTRUMENTS	|	ఎల్తలం 	|	ELTALAM 	|	ఎల్తలం _CLUE	|		|	
+943	|	INDIAN_MUSICAL_INSTRUMENTS	|	ఎస్రాజ్ 	|	ESRAJ	|	ఎస్రాజ్ _CLUE	|		|	
+944	|	INDIAN_MUSICAL_INSTRUMENTS	|	ఫోక్ సారంగీ 	|	FOLK SARANGI	|	ఫోక్ సారంగీ _CLUE	|		|	
+945	|	INDIAN_MUSICAL_INSTRUMENTS	|	జీజెర్ 	|	GEGER 	|	జీజెర్ _CLUE	|		|	
+946	|	INDIAN_MUSICAL_INSTRUMENTS	|	గెట్ట్చు వాద్య్యం లేక జల్ హరి 	|	GETCHU VADYAM OR GETTUVADYAM OR GETHU VADYAM OR JHALLARI	|	గెట్ట్చు వాద్య్యం లేక జల్ హరి _CLUE	|		|	
+947	|	INDIAN_MUSICAL_INSTRUMENTS	|	గీతు లేక జల్హరి 	|	GETHU OR JHALLARI	|	గీతు లేక జల్హరి _CLUE	|		|	
+948	|	INDIAN_MUSICAL_INSTRUMENTS	|	ఘట్ సింగారి లేక గడ సింగారి 	|	GHAT SINGHARI OR GADA SINGARI	|	ఘట్ సింగారి లేక గడ సింగారి _CLUE	|		|	
+949	|	INDIAN_MUSICAL_INSTRUMENTS	|	ఘటం మట్కం 	|	GHATAM AND MATKAM 	|	ఘటం మట్కం _CLUE	|		|	
+950	|	INDIAN_MUSICAL_INSTRUMENTS	|	గుమత్ 	|	GHUMOT	|	గుమత్ _CLUE	|		|	
+951	|	INDIAN_MUSICAL_INSTRUMENTS	|	గుంగ్రూ 	|	GHUNGROO	|	గుంగ్రూ _CLUE	|		|	
+952	|	INDIAN_MUSICAL_INSTRUMENTS	|	గోగోన 	|	GOGONA 	|	గోగోన _CLUE	|		|	
+953	|	INDIAN_MUSICAL_INSTRUMENTS	|	గోపిచంద్,  గోపియాత్ర, ఖమక్ 	|	GOPICHAND OR GOPIYANTRA OR KHAMAK	|	గోపిచంద్,  గోపియాత్ర, ఖమక్ _CLUE	|		|	
+954	|	INDIAN_MUSICAL_INSTRUMENTS	|	గొట్టు వాద్యం లేక చిత్రవీణ 	|	GOTTUVADHYAM OR CHITRAVINA	|	గొట్టు వాద్యం లేక చిత్రవీణ _CLUE	|		|	
+955	|	INDIAN_MUSICAL_INSTRUMENTS	|	గుబ్ గుబ 	|	GUBGUBA	|	గుబ్ గుబ _CLUE	|		|	
+956	|	INDIAN_MUSICAL_INSTRUMENTS	|	గుమ్మెత	|	GUMMETA	|	గుమ్మెత_CLUE	|		|	
+957	|	INDIAN_MUSICAL_INSTRUMENTS	|	హార్మోనియం 	|	HARMONIUM 	|	హార్మోనియం _CLUE	|		|	
+958	|	INDIAN_MUSICAL_INSTRUMENTS	|	ఇడక్క 	|	IDAKKA	|	ఇడక్క _CLUE	|		|	
+959	|	INDIAN_MUSICAL_INSTRUMENTS	|	జల్ తరంగ్ 	|	JAL TARANG	|	జల్ తరంగ్ _CLUE	|		|	
+960	|	INDIAN_MUSICAL_INSTRUMENTS	|	కమైచ 	|	KAMAICHA	|	కమైచ _CLUE	|		|	
+961	|	INDIAN_MUSICAL_INSTRUMENTS	|	కంచ్ తరంగ్ 	|	KANCH TARANG	|	కంచ్ తరంగ్ _CLUE	|		|	
+962	|	INDIAN_MUSICAL_INSTRUMENTS	|	కంజిర 	|	KANJIRA 	|	కంజిర _CLUE	|		|	
+963	|	INDIAN_MUSICAL_INSTRUMENTS	|	కన్సి 	|	KANSI	|	కన్సి _CLUE	|		|	
+964	|	INDIAN_MUSICAL_INSTRUMENTS	|	కస్థ తరంగ్ 	|	KASHTHA TARANG	|	కస్థ తరంగ్ _CLUE	|		|	
+965	|	INDIAN_MUSICAL_INSTRUMENTS	|	కథో 	|	KATHO	|	కథో _CLUE	|		|	
+966	|	INDIAN_MUSICAL_INSTRUMENTS	|	కర్తాల్  లేక చిప్లీయ 	|	KHARTAL OR CHIPLYA	|	కర్తాల్  లేక చిప్లీయ _CLUE	|		|	
+967	|	INDIAN_MUSICAL_INSTRUMENTS	|	కోల్ 	|	KHOL	|	కోల్ _CLUE	|		|	
+968	|	INDIAN_MUSICAL_INSTRUMENTS	|	కొమ్బు 	|	KOMBU	|	కొమ్బు _CLUE	|		|	
+969	|	INDIAN_MUSICAL_INSTRUMENTS	|	కుజ్హల్ 	|	KUZHAL	|	కుజ్హల్ _CLUE	|		|	
+970	|	INDIAN_MUSICAL_INSTRUMENTS	|	లోహ తరంగ్ 	|	LOH TARANG , 	|	లోహ తరంగ్ _CLUE	|		|	
+971	|	INDIAN_MUSICAL_INSTRUMENTS	|	మద్దెల 	|	MADDALE	|	మద్దెల _CLUE	|		|	
+972	|	INDIAN_MUSICAL_INSTRUMENTS	|	మగది వీణ 	|	MAGADI VEENA	|	మగది వీణ _CLUE	|		|	
+973	|	INDIAN_MUSICAL_INSTRUMENTS	|	మంజీరా లేక జాంజర్ లేక తాళ్ 	|	MANJEERA OR JHANJ OR TAAL	|	మంజీరా లేక జాంజర్ లేక తాళ్ _CLUE	|		|	
+974	|	INDIAN_MUSICAL_INSTRUMENTS	|	మరం 	|	MARAM	|	మరం _CLUE	|		|	
+975	|	INDIAN_MUSICAL_INSTRUMENTS	|	మశాక్ 	|	MASHAK	|	మశాక్ _CLUE	|		|	
+976	|	INDIAN_MUSICAL_INSTRUMENTS	|	మయూరి వీణ లేక తస్ 	|	MAYURI VINA OR TAUS	|	మయూరి వీణ లేక తస్ _CLUE	|		|	
+977	|	INDIAN_MUSICAL_INSTRUMENTS	|	మిజహావ్ 	|	MIZHAVU	|	మిజహావ్ _CLUE	|		|	
+978	|	INDIAN_MUSICAL_INSTRUMENTS	|	మోహన్ వీణ 	|	MOHAN VEENA	|	మోహన్ వీణ _CLUE	|		|	
+979	|	INDIAN_MUSICAL_INSTRUMENTS	|	మొర్సింగ్ 	|	MORSING	|	మొర్సింగ్ _CLUE	|		|	
+980	|	INDIAN_MUSICAL_INSTRUMENTS	|	మృదంగం 	|	MRIDANGAM	|	మృదంగం _CLUE	|		|	
+981	|	INDIAN_MUSICAL_INSTRUMENTS	|	నాదస్వరం 	|	NADASWARAM	|	నాదస్వరం _CLUE	|		|	
+982	|	INDIAN_MUSICAL_INSTRUMENTS	|	నగారా 	|	NAGARA	|	నగారా _CLUE	|		|	
+983	|	INDIAN_MUSICAL_INSTRUMENTS	|	నకుల వీణ 	|	NAKULA VEENA	|	నకుల వీణ _CLUE	|		|	
+984	|	INDIAN_MUSICAL_INSTRUMENTS	|	నందుని 	|	NANDUNI - TWO STRINGED LUTE	|	నందుని _CLUE	|		|	
+985	|	INDIAN_MUSICAL_INSTRUMENTS	|	నట్ 	|	NUT - CLAY POT	|	నట్ _CLUE	|		|	
+986	|	INDIAN_MUSICAL_INSTRUMENTS	|	ఒనవిల్లు 	|	ONAVILLU	|	ఒనవిల్లు _CLUE	|		|	
+987	|	INDIAN_MUSICAL_INSTRUMENTS	|	పక్వాజ్ లేక పక్వజ్ 	|	PAKHAVAJ	|	పక్వాజ్ లేక పక్వజ్ _CLUE	|		|	
+988	|	INDIAN_MUSICAL_INSTRUMENTS	|	పక్వాజ్ జోరి 	|	PAKHAVAJ JORI - SIKH INSTRUMENT SIMILAR TO TABLA	|	పక్వాజ్ జోరి _CLUE	|		|	
+989	|	INDIAN_MUSICAL_INSTRUMENTS	|	పంబై 	|	PAMBAI	|	పంబై _CLUE	|		|	
+990	|	INDIAN_MUSICAL_INSTRUMENTS	|	పంచముఖ వాద్యం 	|	PANCHAMUKHA VADYAM	|	పంచముఖ వాద్యం _CLUE	|		|	
+991	|	INDIAN_MUSICAL_INSTRUMENTS	|	పరై  తపు లేక హల్గి 	|	PARAI THAPPU , HALGI 	|	పరై  తపు లేక హల్గి _CLUE	|		|	
+992	|	INDIAN_MUSICAL_INSTRUMENTS	|	పాటయాని డప్పు 	|	PATAYANI THAPPU 	|	పాటయాని డప్పు _CLUE	|		|	
+993	|	INDIAN_MUSICAL_INSTRUMENTS	|	పెన లేక బన 	|	PENA OR BANA	|	పెన లేక బన _CLUE	|		|	
+994	|	INDIAN_MUSICAL_INSTRUMENTS	|	పేప 	|	PEPA	|	పేప _CLUE	|		|	
+995	|	INDIAN_MUSICAL_INSTRUMENTS	|	పుల్లవన్ కుటం 	|	PULLUVAN KUTAM (POT WITH ONE STRING ATTACHED TO IT)	|	పుల్లవన్ కుటం _CLUE	|		|	
+996	|	INDIAN_MUSICAL_INSTRUMENTS	|	పుల్లవన్ పట్టు (ఒక తీగ వున్న  వైయోలిన్ )	|	PULLUVAN PATTU - ONE STRINGED VIOLIN	|	పుల్లవన్ పట్టు (ఒక తీగ వున్న  వైయోలిన్ )_CLUE	|		|	
+997	|	INDIAN_MUSICAL_INSTRUMENTS	|	పుంగ్ 	|	PUNG	|	పుంగ్ _CLUE	|		|	
+998	|	INDIAN_MUSICAL_INSTRUMENTS	|	పుంగి లేక బీన్ 	|	PUNGI OR BEEN	|	పుంగి లేక బీన్ _CLUE	|		|	
+999	|	INDIAN_MUSICAL_INSTRUMENTS	|	రామసింగ 	|	RAMSINGA	|	రామసింగ _CLUE	|		|	
+1000	|	INDIAN_MUSICAL_INSTRUMENTS	|	రావన్ హత 	|	RAVANAHATHA	|	రావన్ హత _CLUE	|		|	
+1001	|	INDIAN_MUSICAL_INSTRUMENTS	|	రుబాబ్ , 	|	RUBAB , PLUCKED RABAAB	|	రుబాబ్ , _CLUE	|		|	
+1002	|	INDIAN_MUSICAL_INSTRUMENTS	|	రుద్ర వీణ 	|	RUDRA VEENA	|	రుద్ర వీణ _CLUE	|		|	
+1003	|	INDIAN_MUSICAL_INSTRUMENTS	|	సంబల్ 	|	SAMBAL	|	సంబల్ _CLUE	|		|	
+1004	|	INDIAN_MUSICAL_INSTRUMENTS	|	శంకర్ జంగ్ 	|	SANKARJANG - LITHOPHONE	|	శంకర్ జంగ్ _CLUE	|		|	
+1005	|	INDIAN_MUSICAL_INSTRUMENTS	|	సంతూర్ 	|	SANTOOR	|	సంతూర్ _CLUE	|		|	
+1006	|	INDIAN_MUSICAL_INSTRUMENTS	|	సరస్వతి వీణ 	|	SARASWATI VEENA	|	సరస్వతి వీణ _CLUE	|		|	
+1007	|	INDIAN_MUSICAL_INSTRUMENTS	|	సరిండ 	|	SARINDA	|	సరిండ _CLUE	|		|	
+1008	|	INDIAN_MUSICAL_INSTRUMENTS	|	సరోద్ 	|	SAROD	|	సరోద్ _CLUE	|		|	
+1009	|	INDIAN_MUSICAL_INSTRUMENTS	|	షెహనాయి 	|	SHEHNAI	|	షెహనాయి _CLUE	|		|	
+1010	|	INDIAN_MUSICAL_INSTRUMENTS	|	శృతి పెట్టె 	|	SHRUTI BOX	|	శృతి పెట్టె _CLUE	|		|	
+1011	|	INDIAN_MUSICAL_INSTRUMENTS	|	శుద్ద మదలం 	|	SHUDDHA MADALAM OR MADDALAM	|	శుద్ద మదలం _CLUE	|		|	
+1012	|	INDIAN_MUSICAL_INSTRUMENTS	|	సితార్ 	|	SITAR	|	సితార్ _CLUE	|		|	
+1013	|	INDIAN_MUSICAL_INSTRUMENTS	|	శ్రుతి ఉపంగా 	|	SRUTI UPANGA	|	శ్రుతి ఉపంగా _CLUE	|		|	
+1014	|	INDIAN_MUSICAL_INSTRUMENTS	|	సుండారి ( సుందరి ) 	|	SUNDARI	|	సుండారి ( సుందరి ) _CLUE	|		|	
+1015	|	INDIAN_MUSICAL_INSTRUMENTS	|	సుర్బహార్ 	|	SURBAHAR	|	సుర్బహార్ _CLUE	|		|	
+1016	|	INDIAN_MUSICAL_INSTRUMENTS	|	సుర్ శ్రింగార్ 	|	SURSHRINGAR	|	సుర్ శ్రింగార్ _CLUE	|		|	
+1017	|	INDIAN_MUSICAL_INSTRUMENTS	|	స్వర్బత్ 	|	SWARABAT	|	స్వర్బత్ _CLUE	|		|	
+1018	|	INDIAN_MUSICAL_INSTRUMENTS	|	స్వర్ మండల్ 	|	SWARMANDAL	|	స్వర్ మండల్ _CLUE	|		|	
+1019	|	INDIAN_MUSICAL_INSTRUMENTS	|	తబలా 	|	TABALA / TABL / CHAMELI - GOBLET DRUM	|	తబలా _CLUE	|		|	
+1020	|	INDIAN_MUSICAL_INSTRUMENTS	|	తబలా 	|	TABLA	|	తబలా _CLUE	|		|	
+1021	|	INDIAN_MUSICAL_INSTRUMENTS	|	తబలా తరంగ్ 	|	TABLA TARANG - SET OF TABLAS	|	తబలా తరంగ్ _CLUE	|		|	
+1022	|	INDIAN_MUSICAL_INSTRUMENTS	|	తలమిటర్ 	|	TALAMETER	|	తలమిటర్ _CLUE	|		|	
+1023	|	INDIAN_MUSICAL_INSTRUMENTS	|	టమక్ 	|	TAMAK'	|	టమక్ _CLUE	|		|	
+1024	|	INDIAN_MUSICAL_INSTRUMENTS	|	తంబురా 	|	TAMBURA	|	తంబురా _CLUE	|		|	
+1025	|	INDIAN_MUSICAL_INSTRUMENTS	|	తంటే 	|	TAMTE	|	తంటే _CLUE	|		|	
+1026	|	INDIAN_MUSICAL_INSTRUMENTS	|	తంగుమారి 	|	TANGMURI	|	తంగుమారి _CLUE	|		|	
+1027	|	INDIAN_MUSICAL_INSTRUMENTS	|	తర్ సెహనాయి 	|	TAR SHEHNAI	|	తర్ సెహనాయి _CLUE	|		|	
+1028	|	INDIAN_MUSICAL_INSTRUMENTS	|	తష 	|	TASHA 	|	తష _CLUE	|		|	
+1029	|	INDIAN_MUSICAL_INSTRUMENTS	|	తంతి పనై 	|	THANTHI PANAI	|	తంతి పనై _CLUE	|		|	
+1030	|	INDIAN_MUSICAL_INSTRUMENTS	|	తట్టుకజి  మన్నై 	|	THATTUKAZHI MANNAI	|	తట్టుకజి  మన్నై _CLUE	|		|	
+1031	|	INDIAN_MUSICAL_INSTRUMENTS	|	తవిల్ 	|	THAVIL	|	తవిల్ _CLUE	|		|	
+1032	|	INDIAN_MUSICAL_INSTRUMENTS	|	తిమిల 	|	THIMILA	|	తిమిల _CLUE	|		|	
+1033	|	INDIAN_MUSICAL_INSTRUMENTS	|	టీట్టీ 	|	TITTI	|	టీట్టీ _CLUE	|		|	
+1034	|	INDIAN_MUSICAL_INSTRUMENTS	|	తుమ్బక్ 	|	TUMBAK , TUMBAKNARI , TUMBAKNAER	|	తుమ్బక్ _CLUE	|		|	
+1035	|	INDIAN_MUSICAL_INSTRUMENTS	|	తుంబి 	|	TUMBI	|	తుంబి _CLUE	|		|	
+1036	|	INDIAN_MUSICAL_INSTRUMENTS	|	తుంతునా 	|	TUNTUNA	|	తుంతునా _CLUE	|		|	
+1037	|	INDIAN_MUSICAL_INSTRUMENTS	|	ఉడుకై 	|	UDUKAI	|	ఉడుకై _CLUE	|		|	
+1038	|	INDIAN_MUSICAL_INSTRUMENTS	|	ఉరుమీ 	|	URUMEE	|	ఉరుమీ _CLUE	|		|	
+1039	|	INDIAN_MUSICAL_INSTRUMENTS	|	వేణు (కర్నాటిక్ ఫ్లూట్ ) పుల్లన్ ఘుజల్ 	|	VENU (CARNATIC FLUTE) PULLANGUZHAL	|	వేణు (కర్నాటిక్ ఫ్లూట్ ) పుల్లన్ ఘుజల్ _CLUE	|		|	
+1040	|	INDIAN_MUSICAL_INSTRUMENTS	|	విచిత్ర వీణ 	|	VICHITRA VEENA	|	విచిత్ర వీణ _CLUE	|		|	
+1041	|	INDIAN_MUSICAL_INSTRUMENTS	|	యాజ్ 	|	YAZH	|	యాజ్ _CLUE	|		|	
+1042	|	JEWELRY	|	కడియము	|	ANKLET	|	కడియము_CLUE	|		|	
+1043	|	JEWELRY	|	బాహుపురి	|	ARMLET	|	బాహుపురి_CLUE	|		|	
+1044	|	JEWELRY	|	గాజు	|	BANGLE	|	గాజు_CLUE	|		|	
+1045	|	JEWELRY	|	కంకణము	|	BRACELET	|	కంకణము_CLUE	|		|	
+1046	|	JEWELRY	|	పమిట పిన్ను	|	BROOCH	|	పమిట పిన్ను_CLUE	|		|	
+1047	|	JEWELRY	|	గొలుసు	|	CHAIN	|	గొలుసు_CLUE	|		|	
+1048	|	JEWELRY	|	అడుగుల గొలుసు	|	FOOT-CHAIN	|	అడుగుల గొలుసు_CLUE	|		|	
+1049	|	JEWELRY	|	తల పతకం	|	HEAD LOCKET	|	తల పతకం_CLUE	|		|	
+1050	|	JEWELRY	|	ముక్కెర  , ముక్కు పుడక 	|	NOSEPIN	|	ముక్కెర  , ముక్కు పుడక _CLUE	|		|	
+1051	|	JEWELRY	|	లాకెట్టు	|	PENDANT	|	లాకెట్టు_CLUE	|		|	
+1052	|	JEWELRY	|	ముత్యాల హారము     	|	STRING PEARLS	|	ముత్యాల హారము     _CLUE	|		|	
+1053	|	JEWELRY	|	కిరీటము	|	TIARA	|	కిరీటము_CLUE	|		|	
+1054	|	JEWELRY	|	గడియారము	|	WATCH	|	గడియారము_CLUE	|		|	
+1055	|	JEWELRY	|	చేతి కంకణము 	|	WRISTLET	|	చేతి కంకణము _CLUE	|		|	

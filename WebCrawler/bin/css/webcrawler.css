@@ -1,0 +1,389 @@
+/************************************************************************************
+ICS 499: Web Crawler Project CSS. Summer July 2015 - August 2015
+*************************************************************************************
+
+/* Global style rules */
+/* Reset browser default stylings */
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	outline: 0;
+	vertical-align: baseline;
+}
+
+body {
+	font-size: 100%;
+	font-family: 'Droid Sans', sans-serif;
+	line-height: 1.5em;
+	color: #000;
+	background: url(../images/bgr.png) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+html, body {
+	height: 100%; 
+	width: 100%;
+}
+
+/* override the default value content-box for box-sizing; this ensures boxes retain set value heights & widths */
+*, *:before, *:after {
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	box-sizing: border-box;
+}
+
+
+/* Container-wrap and inner-container-wrap styling */
+.crawler-wrapp {
+	margin: 0px auto;
+	position: relative;
+	width: 100%;
+	overflow-x: hidden;
+	
+}
+
+section h1 {
+	/*text-transform: uppercase;*/
+	padding-bottom: 15px;
+	font-size: 23px;
+	line-height: 1.5em;
+}
+
+
+/*crawl-form styling */
+.crawler-form {
+	width: 600px;
+	margin: 20px auto;
+}
+
+header, h1, p {
+	width: 600px;
+	margin: 10px auto;
+}
+
+.select-lang select {
+	width: 200px;
+	height: 35px;
+	padding-left: 5px;
+	padding-top: 0px;
+	font-size: 16px;
+	border: none;
+	outline: none;
+	-webkit-appearance: none;
+   	-moz-appearance: none;
+   	appearance: none;
+	background: transparent;
+	color: #999;
+}
+
+.select-lang {
+   width: 150px;
+   height: 35px;
+   overflow: hidden;
+   border: 1px solid #999;
+   border-radius: 5px;
+   background: transparent url("../images/expand.png") no-repeat scroll right center;
+}
+
+select option {
+	padding: 2px;
+}
+
+select::-ms-expand { /* for IE 11 */
+    display: none;
+}
+
+textarea {
+	width: 550px;
+	height: 250px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	padding: 5px;
+	border: 1px solid #999;
+	color: #999;
+	border-radius: 5px;
+	resize: none;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 16px;
+	text-align: left;
+	background-color: #f9ffc4;
+	opacity: .5;
+
+}
+
+.input-fields {
+	width: 450px;
+	height: 35px;
+	padding: 5px;
+	border: 1px solid #999;
+	margin-bottom: 15px;
+	margin-top: 0px;
+	border-radius: 5px;
+	text-align: left;
+	font-size: 16px;
+	color: #999;
+}
+
+textarea:focus, .input-fields:focus, select:focus {
+	background-color: #f9ffc4;
+	color: #000;
+	opacity: .5;
+
+}
+
+/* crawl button styling */
+.crawl-btn {
+	background-color: #fa3305;
+	width: 150px;
+	height: 40px;
+	color: #fff;
+	font-size: 20px;
+	font-weight: 600;
+	border-radius: 5px;
+	margin-top: 15px
+}
+
+.crawl-btn:hover {
+	background-color: #e42e04;
+}
+
+
+strong a {
+	padding-bottom: 15px;
+	color: #000;
+	font-weight: 300;
+	text-decoration: underline;
+	padding-right: 10px;
+}
+
+strong a:hover {
+	text-decoration: none;
+}
+
+
+/* Preloader image styling*/
+.preLoader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff; 
+    z-index: 99; 
+}
+
+
+/* Loading image */
+.loadingImg {
+    width: 580px;
+    height: 580px;
+    position: absolute;
+    left: 35%; 
+    top: 15%; 
+    background-image: url(../images/preloader.gif); 
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: -20px 0 0 -100px; 
+}
+
+
+/* Print and view results */
+.print-view-results .print-content > a {
+    color: #fa3305;
+    font-size: 18px;
+    left: 10px;
+    position: relative;
+    text-decoration: none;
+    top: -15px;
+}
+
+.print-view-results {
+	margin: 0 auto;
+	background-image: url(../images/crawl-bg.png);
+	background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	width: 100%;
+	height: 100%;
+	min-height: auto;
+	z-index: 100;
+	padding: 50px;
+}
+
+.print-content, h1, p {
+	margin: 0 auto;
+	position: relative;
+	width: 500px;
+}
+
+
+/*
+.main-content {
+	opacity: .8;
+    background: rgba(240,95,64,.9);
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+	width: 100%;
+	height: 100%;
+	z-index: 100;
+	
+}
+*/
+
+.main-content {
+	position: relative;
+	background-image: url(../images/crawl-bg.png);
+	background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	width: 100%;
+	height: 100%;
+	min-height: auto;
+	z-index: 100;
+	padding: 50px;
+}
+
+
+.main-content p {
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+
+.print-view-results .print-content a:hover{
+	text-decoration: underline;
+}
+
+
+/* Crawler features styling */
+.crawler-features {
+    position: relative;
+    top: 30px;
+	width: 500px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.advanced-setting {
+    position: relative;
+    right: 20px;
+	left: 0px;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	background: url(../images/setting.png) no-repeat;
+	cursor: pointer;
+}
+
+.help {
+	left: 30px;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	background: url(../images/help.png) no-repeat;
+	cursor: pointer;
+}
+
+.info {
+	left: 60px;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	background: url(../images/info.png) no-repeat;
+	cursor: pointer;
+}
+
+
+
+.advanced-setting:hover {
+    position: relative;
+    right: 20px;
+	left: 0px;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	background: url(../images/setting-over.png) no-repeat;
+}
+
+.help:hover {
+	left: 30px;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	background: url(../images/help-over.png) no-repeat;
+}
+
+.info:hover {
+	left: 60px;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	background: url(../images/info-over.png) no-repeat;
+}
+
+/* validation */
+div.error {
+	font-size: 1.2rem;
+	color: #F00;
+	font-weight: 300;
+	display: block;
+	padding-bottom: 0;
+	padding-bottom: 0;
+}
+
+.input-fields.error, textarea.error, select.error {
+	background: #FFA9B8;
+	border: 2px solid red;
+	opacity: .5;
+} 
+
+
+/* footer components styling */
+.footer-main {
+	width: 100%;
+	height: 100%;
+	padding: 30px;
+}
+
+
+.footer-content p {
+	color: #000;
+	text-align: left;
+	text-transform: none;
+	font-size: 14px;
+	padding-bottom: 15px;
+}
+
+
+/* Image credit styling */
+span.image-credit {
+	color: #000;
+	text-align: left;
+	margin: 0 auto;
+	position: relative;
+}
+
+
+/* footer overlap fix*/
+.clear-fix {
+	clear: both;
+	line-height: 1;
+	with: 100%;
+	padding-bottom: 20px;
+	
+}
